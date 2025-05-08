@@ -1,0 +1,9 @@
+dir (show all folders)
+cd (change directory)
+git init(create .git )
+git config --global
+git config --global user.name (create name)
+git config --global user.email(create email)
+git status (show stage or unstaged)
+git add file1 (stage)
+git rm --cached file (unstage)
